@@ -1,0 +1,53 @@
+.error {
+  position: absolute;
+  flex-direction: column;
+  display: none;
+  top: 20px;
+  right: 20px;
+  justify-content: center;
+  align-items: center;
+  min-width: 200px;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: crimson;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.url {
+  margin-bottom: 10px;
+}
+
+.message {
+  margin-bottom: 20px;
+}
+
+.send-button {
+  background-color: transparent; /* Green */
+  border: 1px solid white;
+  border-radius: 2px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.show {
+  display: flex;
+}
+
+.main__text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 20px;
+}
+
+
+

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09f62abd-ef82-4e9b-aa6c-bb740b64a453" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qfKGUOZXXg8YUIEi6HLm9SGKtx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09f62abd-ef82-4e9b-aa6c-bb740b64a453" name="Default Changelist" comment="" />
+      <created>1617465110675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617465110675</updated>
+      <workItem from="1617465114293" duration="22264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="373" y="178" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617529224775">
+      <screen x="0" y="25" width="1280" height="694" />
+    </state>
+    <state x="373" y="178" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1280.694@0.25.1280.694" timestamp="1617529224775" />
+    <state width="1259" height="168" key="GridCell.Tab.0.bottom" timestamp="1617465161327">
+      <screen x="0" y="25" width="1280" height="694" />
+    </state>
+    <state width="1259" height="168" key="GridCell.Tab.0.bottom/0.25.1280.694@0.25.1280.694" timestamp="1617465161327" />
+    <state width="1259" height="168" key="GridCell.Tab.0.center" timestamp="1617465161326">
+      <screen x="0" y="25" width="1280" height="694" />
+    </state>
+    <state width="1259" height="168" key="GridCell.Tab.0.center/0.25.1280.694@0.25.1280.694" timestamp="1617465161326" />
+    <state width="1259" height="168" key="GridCell.Tab.0.left" timestamp="1617465161325">
+      <screen x="0" y="25" width="1280" height="694" />
+    </state>
+    <state width="1259" height="168" key="GridCell.Tab.0.left/0.25.1280.694@0.25.1280.694" timestamp="1617465161325" />
+    <state width="1259" height="168" key="GridCell.Tab.0.right" timestamp="1617465161326">
+      <screen x="0" y="25" width="1280" height="694" />
+    </state>
+    <state width="1259" height="168" key="GridCell.Tab.0.right/0.25.1280.694@0.25.1280.694" timestamp="1617465161326" />
+    <state x="341" y="127" width="597" height="490" key="find.popup" timestamp="1617524984578">
+      <screen x="0" y="25" width="1280" height="694" />
+    </state>
+    <state x="341" y="127" width="597" height="490" key="find.popup/0.25.1280.694@0.25.1280.694" timestamp="1617524984578" />
+  </component>
+</project>
